@@ -2,7 +2,12 @@
 ### I'm software engineer and backend developer
 I am a software and information system engineer and web developer. graduated from Al-Baath University in Homs, Syria in 2024. I love web development and have strong experience in Laravel framework. I love sharing my experience with other, and also love to learn something new every single day.
 
-Skills: Html / Css / Js / Php / Bootstrap / Laravel / MySql / Thoroughly researching solutions to software problems and innovating new solutions /  soft skills and dealing positively with team members / review and discuss project requirements
+Skills:
+* Html / Css / Js / Php
+* Bootstrap / Laravel / MySql
+* horoughly researching solutions to software problems and innovating new solutions
+* soft skills and dealing positively with team members
+* review and discuss project requirements
 
 - 🔭 I’m currently working on freelance 
 - 👯 I’m looking to collaborate on programming company 

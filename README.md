@@ -9,8 +9,7 @@ Skills:
 * soft skills and dealing positively with team members
 * review and discuss project requirements
 
-- 🔭 I’m currently working on freelance 
-- 👯 I’m looking to collaborate on programming company 
+- 🔭 I’m currently working with HDR agency 
 - 📫 How to reach me: ahmadkhallouf200@gmail.com 
 
 

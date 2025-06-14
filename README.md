@@ -9,7 +9,7 @@ Skills:
 * soft skills and dealing positively with team members
 * review and discuss project requirements
 
-- 🔭 I’m currently working with HDR agency 
+- 🔭 I’m currently working with <a href="https://hdragency.com">HDR agency</a> 
 - 📫 How to reach me: ahmadkhallouf200@gmail.com 
 
 
